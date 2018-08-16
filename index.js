@@ -2,13 +2,6 @@
 
 function lowerCaseDrivers drivers) {
   return drivers.map (function (driverName) {
-    return driverName
-  }
-}
-}
-function lowerCaseDrivers(drivers) {
-  return drivers.map(function (driverName) {
     return driverName.toLowerCase()
   })
-}
-  
+  }

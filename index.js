@@ -12,7 +12,7 @@ function nameToAttributes(drivers) {
     const lastName = driverName.split (" ") [1];
     return {firstName,lastName}
     
-function  
+ 
 })
 }
 
